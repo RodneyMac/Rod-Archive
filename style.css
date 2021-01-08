@@ -1,0 +1,20 @@
+body {
+    /*background-color: gray;*/
+    background-image: url(img/milanesa-2.jpg);
+    background-repeat: no-repeat;
+}
+
+figure img{
+    width: 50%;
+}
+
+button img {
+    height: 14px;margin-right: 5px;
+}
+
+h1 {
+    text-align: center;
+}
+
+
+
